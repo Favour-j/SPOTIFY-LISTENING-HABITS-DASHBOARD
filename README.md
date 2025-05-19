@@ -1,43 +1,51 @@
-🎧 Spotify Listening Habits Dashboard
-Welcome to my Spotify Wrapped-style data analysis project! This repository showcases my personal listening trends using Python and Power BI. From raw streaming data to a fully interactive dashboard, I walk through the full data analyst workflow: cleaning, analyzing, and visualizing insights.
+# 🎧 Spotify Listening Habits Dashboard
 
-📂 Project Files
-File	Description
-Spotify tracks.xlsx	Original uncleaned Spotify export
-spotify tracks cleaning pyt.ipynb	Python notebook for cleaning and transforming the dataset
-clean_spotify_tracks.xlsx	Final cleaned dataset ready for analysis
-Spotify trend dashboard.pbix	Power BI dashboard file with KPIs and interactive charts
-Spotify trend dashboard.pdf	PDF export of the dashboard for quick view
+Welcome to my **Spotify Wrapped-style** data analytics project! This repository takes my personal listening data and transforms it into an interactive dashboard — all powered by Python and Power BI.
 
-📊 Dashboard Insights
-This dashboard includes insights from April to May 2025 and answers questions like:
+---
 
-🔁 How many times did I play music?
+## 📂 Project Files
 
-🎵 What were my most played songs and favorite artists?
+| File | Description |
+|------|-------------|
+| `Spotify tracks.xlsx` | Original uncleaned Spotify export |
+| `spotify tracks cleaning pyt.ipynb` | Python notebook for cleaning and transforming the dataset |
+| `clean_spotify_tracks.xlsx` | Final cleaned dataset ready for analysis |
+| `Spotify trend dashboard.pbix` | Power BI dashboard file with KPIs and interactive charts |
+| `Spotify trend dashboard.pdf` | PDF export of the dashboard for quick preview |
+| `assets/spotify_dashboard_preview.png` | Image preview extracted from the dashboard |
 
-📅 Which day of the week do I listen most?
+---
 
-⏰ How does my listening habit vary over time?
+## 📊 Dashboard Insights
 
-🛠 Tools Used
-Python (Pandas, Seaborn) — For data cleaning and exploratory data analysis (EDA)
+This dashboard highlights personal listening patterns from April to May 2025 and answers questions like:
 
-Power BI — For data modeling and building an interactive dashboard
+- 🔁 What was my most-played song this month?
+- 🧑‍🎤 Who are my top 5 favorite artists?
+- 📅 On which days and times do I listen most?
+- 📈 How has my listening habit changed over time?
 
-Excel — For storing raw and cleaned datasets
+---
 
-🚀 How to Use
-Clone the repository
+## 🛠 Tools Used
 
-Open the Python notebook to explore or run the cleaning steps
+- **Python** (Pandas, Seaborn) – for data cleaning & EDA  
+- **Power BI** – for dashboard creation and insights visualization  
+- **Excel** – for working with raw and cleaned data  
+- **Jupyter Notebook** – for automation and transformation
 
-Open the .pbix file with Power BI Desktop to explore the dashboard or customize it
+---
 
-Share or adapt the .pdf file for static reporting
 
-📥 Data Source
-Data exported from Spotify's account activity.
+
+## 📥 Data Source
+
+Personal listening data exported from [IFTTT SPOTIFY APPLET]
+
+---
+
+
 
 
 
