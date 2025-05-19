@@ -13,7 +13,6 @@ Welcome to my **Spotify Wrapped-style** data analytics project! This repository 
 | `clean_spotify_tracks.xlsx` | Final cleaned dataset ready for analysis |
 | `Spotify trend dashboard.pbix` | Power BI dashboard file with KPIs and interactive charts |
 | `Spotify trend dashboard.pdf` | PDF export of the dashboard for quick preview |
-| `assets/spotify_dashboard_preview.png` | Image preview extracted from the dashboard |
 
 ---
 
