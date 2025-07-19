@@ -30,7 +30,8 @@ The analysis highlights top artists, most played songs, peak listening periods, 
 
 ## 📊 Dashboard Preview  
 > Visualized using **Power BI**, exported as PDF for viewing:  
-'Spotify trend dashboard.pdf'
+📎 [Click to view dashboard preview](https://github.com/Favour-j/SPOTIFY-LISTENING-HABITS-DASHBOARD/blob/main/Spotify%20trend%20dashboard.pdf)
+
 
 
 
